@@ -12,3 +12,4 @@ Run the resource yaml's in the below order in order to create the required objec
    bluegreen-pipeline.yml
         OR
    rolling-pipeline.yml
+#trigger pipeline
